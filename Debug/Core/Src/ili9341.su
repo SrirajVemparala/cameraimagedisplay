@@ -1,0 +1,7 @@
+ili9341.c:38:6:ili9341_start	8	static
+ili9341.c:49:6:WriteCommand	16	static
+ili9341.c:60:6:WriteData	16	static
+ili9341.c:72:6:ILI9341Reset	8	static
+ili9341.c:86:6:ILI9341Init	8	static
+ili9341.c:167:6:setaddress	24	static
+ili9341.c:195:6:ILI9341_write_Pixel	24	static
